@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453747683589",
+    "project_id": "hackaton-d54b7",
+    "storage_bucket": "hackaton-d54b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453747683589:android:2f75862f2144884616c76c",
+        "android_client_info": {
+          "package_name": "com.example.hackaton_terricon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW22NQg7xcdf6irfseSGP944GoMfA4FQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
